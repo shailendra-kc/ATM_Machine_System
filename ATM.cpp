@@ -1,4 +1,5 @@
 #include<conio.h> // for using _getch() (Holds the screen unitl user presses another key)
+#include<bits/stdc++.h>
 #include<iostream>
 #include<string>
 using namespace std;
